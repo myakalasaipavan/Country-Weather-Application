@@ -1,0 +1,127 @@
+.heading{
+    text-align: center;
+    margin-top: 20px;   
+    color:black;
+    font-size:40px;
+}
+
+.description{
+    text-align: center;
+    margin-top: 20px;   
+    color:rgb(184, 84, 180);
+    font-size:20px;
+}
+
+.country-input{
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    width: 300px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-button{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container{
+    text-align:center;
+    color:rgb(81, 58, 74);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+
+.card {
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+
+.flag {
+  width: 60px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+
+.card h3 {
+  font-size: 14px;
+  margin: 6px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+button {
+  margin-top: 8px;
+  padding: 4px 8px;
+  font-size: 12px;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.details-card {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+
+.details-flag {
+  width: 80px;
+  height: auto;
+  margin: 10px 0;
+  border-radius: 6px;
+}
+
+.back-btn {
+  display: block;
+  margin: 20px auto 0;
+  background: #087ee6;
+  padding: 6px 14px;
+  font-size: 13px;
+}
+
+.back-btn:hover {
+  background: #2384ce;
+}
