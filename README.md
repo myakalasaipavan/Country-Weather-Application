@@ -123,8 +123,7 @@ This project is open-source and available under the MIT License.
 
 ## 🙌 Author
 
-**Dinesh Kumar**
-
+**myakalasaipavan**
 * GitHub: https://github.com/Dineshkumar1432
 
 ---
