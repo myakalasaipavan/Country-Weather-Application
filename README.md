@@ -124,7 +124,7 @@ This project is open-source and available under the MIT License.
 ## 🙌 Author
 
 **myakalasaipavan**
-* GitHub: https://github.com/Dineshkumar1432
+* GitHub: https://github.com/myakalasaipavan
 
 ---
 
